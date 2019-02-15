@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DestinationsApp</string>
+    <string name="pick_button_text">PICK</string>
+    <string name="pick_origin_empty_text">Tap pick to set your origin</string>
+    <string name="pick_destination_empty_text">Tap pick to set your destination</string>
+    <string name="default_error_message">An Error Occurred: %1$s</string>
+    <string name="show_on_map_button_text">SHOW ON MAP</string>
+    <string name="title_activity_airport_picker">Pick Airport</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="origin_airport_not_chosen_error_message">Please choose origin airport</string>
+    <string name="destination_airport_not_chosen_error_message">Please choose destination airport</string>
+    <string name="airports_not_chosen_error_message">Please choose airports</string>
+</resources>
